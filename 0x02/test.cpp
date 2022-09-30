@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("@@@@\n");
+  printf("test\n");
   return 0;
 }
